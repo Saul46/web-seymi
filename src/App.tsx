@@ -70,7 +70,7 @@ function App() {
               <DollarSign className="w-12 h-12 text-[#722F37] mb-4" />
               <h3 className="text-xl font-semibold mb-3">Venta de Refacciones y Componentes de maquinaria</h3>
               <p className="text-gray-600">
-                Los mejores productos al mejjor precio y de la mejor calidad.
+                Los mejores productos al mejor precio y de la mejor calidad.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
@@ -84,7 +84,10 @@ function App() {
               <Drill className="w-12 h-12 text-[#722F37] mb-4" />
               <h3 className="text-xl font-semibold mb-3"> Tratamiento y Soluciones para Pisos Industriales</h3>
               <p className="text-gray-600">
-                Soluciones flexibles de alquiler para proyectos temporales.
+              Venta de pintura epóxica 
+• Sello epóxico 
+• Piso epóxico. Tratamiento y reparación de juntas de concreto
+
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
