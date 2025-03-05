@@ -26,7 +26,7 @@ function App() {
               </h1>
               <p className="text-xl mb-8">
                 Ofrecemos servicios de alta calidad en venta, renta y
-                mantenimiento de montacargas para optimizar sus operaciones.
+                mantenimiento de montacargas para optimizar sus operaciones1.
               </p>
             </div>
             <div className="md:w-1/2">
