@@ -84,10 +84,7 @@ function App() {
               <Drill className="w-12 h-12 text-[#722F37] mb-4" />
               <h3 className="text-xl font-semibold mb-3"> Tratamiento y Soluciones para Pisos Industriales</h3>
               <p className="text-gray-600">
-              Venta de pintura epóxica 
-• Sello epóxico 
-• Piso epóxico. Tratamiento y reparación de juntas de concreto
-
+              Venta de pintura epóxica • Sello epóxico • Piso epóxico. Tratamiento y reparación de juntas de concreto
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-lg">
