@@ -18,7 +18,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-1/2 mb-8 md:mb-0">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                Soluciones Profesionales en Montacargas
+              Sericios Electromecánicos y Metodos Integrales
               </h1>
               <p className="text-xl mb-8">
                 Ofrecemos servicios de alta calidad en venta, renta y
