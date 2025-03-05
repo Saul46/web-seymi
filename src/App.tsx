@@ -112,7 +112,7 @@ function App() {
             <h3 className="text-xl font-semibold mb-3">Montacargas eléctricos</h3>
             <h3 className="text-xl font-semibold mb-3">Montacargas de combustión</h3>
             <h3 className="text-xl font-semibold mb-3">Patines hidráulicos</h3>
-            <h3 className="text-xl font-semibold mb-3">Baterías</h3>
+            <h3 className="text-xl font-semibold mb-3">Bateríasasa</h3>
             <h3 className="text-xl font-semibold mb-3">Patinetas eléctricas</h3>
             
           </div>
